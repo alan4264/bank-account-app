@@ -4,3 +4,4 @@ A bank account application which supports both chequing accounts and savings acc
 - withdraw 
 - transfer
 - show information
+Both accounts support saving and getting interest.
